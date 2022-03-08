@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(207, 206, 248);
+}
+
+h1{
+    width: 320px;
+    margin: 0 auto;
+    background-color: #e271c6;
+    padding: 0 5px 5px 5px;
+    border: 5px solid black;
+}
